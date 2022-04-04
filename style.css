@@ -527,7 +527,7 @@ footer div{
  }
  #para {
  	height:150px;
-	width: 330px;
+	width: 300px;
 	overflow: hidden;
 	margin-top: 5px;
 	margin-bottom: 0px;
@@ -540,12 +540,12 @@ footer div{
  	margin-top: 5px;
    	margin-bottom: 30px;
    	margin-left: 30px;
-   	width: 330px;
+   	width: 310px;
 	height: 250px;
 	background-color: blanchedalmond;}
 
  #proj{
- 	width: 330px;
+ 	width: 300px;
  	height: 150px;
  	margin-left: 20px;
  	float: left;
